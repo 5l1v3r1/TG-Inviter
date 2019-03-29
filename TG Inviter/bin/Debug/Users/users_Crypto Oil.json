@@ -1,0 +1,50 @@
+[
+  {
+    "Channel_Title": "Crypto Oil",
+    "Channel_Id": 1340904729,
+    "Channel_AccessHash": -3026303382353825213,
+    "Channel_Username": "cripto_oil",
+    "Channel_Date": 1545933505,
+    "Channel_ParticipantsCount": 3,
+    "Channel_AdminsCount": 2,
+    "Channel_KickedCount": 0,
+    "Users": [
+      {
+        "MutualContact": false,
+        "Deleted": false,
+        "Bot": false,
+        "Verified": false,
+        "Id": 770707012,
+        "AccessHash": 3097588002811208998,
+        "FirstName": "KABAN News",
+        "LastName": "Bot",
+        "Username": "KABAN_News",
+        "Phone": null
+      },
+      {
+        "MutualContact": false,
+        "Deleted": false,
+        "Bot": false,
+        "Verified": false,
+        "Id": 727634935,
+        "AccessHash": -8246794349128242959,
+        "FirstName": "Lui",
+        "LastName": "Asai",
+        "Username": null,
+        "Phone": "79818113097"
+      },
+      {
+        "MutualContact": false,
+        "Deleted": false,
+        "Bot": false,
+        "Verified": false,
+        "Id": 703200247,
+        "AccessHash": 6156374126329056,
+        "FirstName": "Peter",
+        "LastName": "Wallet",
+        "Username": null,
+        "Phone": null
+      }
+    ]
+  }
+]
